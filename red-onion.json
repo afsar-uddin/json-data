@@ -6,6 +6,26 @@
             "cover": "https://i.ibb.co/pvXMC6H/bannerbackground.png"
         }
     ],
+    "slider": [
+        {
+            "id": 1,
+            "slierImg": "https://i.ibb.co/rwVtxkL/banner1.jpg",
+            "title": "This is title for slider one",
+            "caption": "Some caption about your first slider."
+        },
+        {
+            "id": 2,
+            "slierImg": "https://i.ibb.co/CPCLP93/banner2.jpg",
+            "title": "Slider caption for title only",
+            "caption": "Here showing now some demo content as caption of slider"
+        },
+        {
+            "id": 3,
+            "slierImg": "https://i.ibb.co/8B4Qg6M/banner3.jpg",
+            "title": "Amar sunar bangla ami tumai",
+            "caption": "Bangladesh amar Bangladesh tumar Bangladesh amar pran."
+        }
+    ],
     "breakfast": [
         {
             "id": 1,
