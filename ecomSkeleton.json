@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "3M Gold Privacy",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg",
+        "inStock": 9,
+        "price": 350,
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "Manfrotto MB LF-WN-BP camera",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/51mEVhwXGKL._AC_US218_.jpg",
+        "inStock": 12,
+        "price": 120,
+        "rating": 3
+    },
+    {
+        "id": 3,
+        "name": "Acer Aspire E 15 E5-575G-57D4 15.6-Inches",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/41HfDkXXyeL._AC_US218_.jpg",
+        "inStock": 21,
+        "price": 189,
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "name": "ASUS ZenBook UX330UA-AH54 13.3-inch",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/417yCr3mvYL._AC_US218_.jpg",
+        "inStock": 4,
+        "price": 570,
+        "rating": 2
+    },
+    {
+        "id": 5,
+        "name": "ASUS Chromebook C202SA-YS02",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/31inMpRxCFL._AC_US218_.jpg",
+        "inStock": 13,
+        "price": 170,
+        "rating": 1
+    },
+    {
+        "id": 6,
+        "name": "Apple MacBook Air 13.3-Inch",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/51GRACqhHbL._AC_US218_.jpg",
+        "inStock": 2,
+        "price": 980,
+        "rating": 5
+    }
+]
