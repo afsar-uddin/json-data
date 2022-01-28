@@ -3,15 +3,7 @@
         "id": 1,
         "name": "3M Gold Privacy",
         "Image": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg",
-        "inStock": 9,
-        "price": 350,
-        "rating": 5
-    },
-    {
-        "id": 7,
-        "name": "Alukochu ZenBook UX330UA-AH54",
-        "Image": "https://images-na.ssl-images-amazon.com/images/I/51GRACqhHbL._AC_US218_.jpg",
-        "inStock": 9,
+        "inStock": 3,
         "price": 350,
         "rating": 5
     },
@@ -19,9 +11,9 @@
         "id": 2,
         "name": "Manfrotto MB LF-WN-BP camera",
         "Image": "https://images-na.ssl-images-amazon.com/images/I/51mEVhwXGKL._AC_US218_.jpg",
-        "inStock": 12,
-        "price": 120,
-        "rating": 3
+        "inStock": 0,
+        "price": 90,
+        "rating": 4
     },
     {
         "id": 3,
@@ -53,6 +45,14 @@
         "Image": "https://images-na.ssl-images-amazon.com/images/I/51GRACqhHbL._AC_US218_.jpg",
         "inStock": 2,
         "price": 980,
+        "rating": 5
+    },
+    {
+        "id": 7,
+        "name": "Alukochu ZenBook UX330UA-AH54",
+        "Image": "https://images-na.ssl-images-amazon.com/images/I/51GRACqhHbL._AC_US218_.jpg",
+        "inStock": 9,
+        "price": 350,
         "rating": 5
     }
 ]
