@@ -1,4 +1,4 @@
-products: [
+[
     {
         _id: "1",
         name: "Velcro Ballerinas For Girls  (Pink)",
@@ -65,4 +65,4 @@ products: [
         rating: 0,
         numReviews: 0,
     },
-];
+]
