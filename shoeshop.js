@@ -1,4 +1,4 @@
-products = [
+products: [
     {
         _id: "1",
         name: "Velcro Ballerinas For Girls  (Pink)",
